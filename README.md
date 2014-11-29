@@ -27,4 +27,4 @@ PlexMovieProcessor aims to solve these issues.
 
 ** It tries to find any included SRT files and name them appropriately. If it can't find all SRT files which the user wants, it searches online subtitle databases for a suitable one.
 
-** It tries to deduce the name and year of the movie and name it "<title> (<year>).mkv"
+** It tries to deduce the name and year of the movie and name it "title (year).mkv"
